@@ -10,7 +10,9 @@
 - 🌱 I’m currently learning Nuxt.js/Vue.js
 - 👯 I’m looking to collaborate on projects with Flutter and Firebase.
 - 📫 Reach me out for further conversation exchange:
-  - :inbox_tray: Drop me a mail <a target="_blank" href="harshtaliwal@gmail.com"><img alt="Gmail" width="24px" height="17" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  - :inbox_tray: Drop me a mail 
+    <a target="_blank" href="mailto:harshtaliwal@gmail.com">
+     <img alt="Gmail" width="22px" height="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
      </a>.
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
